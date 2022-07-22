@@ -43,6 +43,7 @@ if ($category_type == "Cinema") {
     $category = null;
 }
 
+
 ?>
 
 <!DOCTYPE html>
