@@ -4,7 +4,6 @@
 include __DIR__ . "/class/Ticket.class.php";
 include __DIR__ . "/class/Cinema.class.php";
 include __DIR__ . "/class/Theater.class.php";
-
 require __DIR__ . '/includes/registration_summary.php';
 
 
@@ -42,8 +41,6 @@ if ($category_type == "Cinema") {
 } else {
     $category = null;
 }
-
-
 ?>
 
 <!DOCTYPE html>
