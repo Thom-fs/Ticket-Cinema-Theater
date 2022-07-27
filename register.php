@@ -6,6 +6,7 @@ include __DIR__ . "/class/Cinema.class.php";
 include __DIR__ . "/class/Theater.class.php";
 require __DIR__ . '/includes/registration_summary.php';
 
+
 /* Vérification du verbe HTTP */
 if ($_SERVER["REQUEST_METHOD"] != "POST") {
     http_response_code(405); // Code HTTP Method Not Allowed (Verbe HTTP non autorisé)
