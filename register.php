@@ -31,6 +31,7 @@ if ($category_type == "Theater") {
     $intermission = $_POST["intermission"]; // L'heure de l'entracte
 }
 
+
 /* Création de l'utilisateur */
 if ($category_type == "Cinema") {
     $category = new Cinema($date, $place, $category, $choice, $movieRoom, $checkAge, $time);
