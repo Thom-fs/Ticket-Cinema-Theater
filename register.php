@@ -32,7 +32,6 @@ if ($category_type == "Theater") {
 }
 
 
-
 /* Création de l'utilisateur */
 if ($category_type == "Cinema") {
     $category = new Cinema($date, $place, $category, $choice, $movieRoom, $checkAge, $time);
