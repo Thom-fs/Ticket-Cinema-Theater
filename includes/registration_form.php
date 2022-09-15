@@ -21,6 +21,7 @@ function show_registration_form(string $category_type = "Ticket")
     </h2>
     <form action="register.php" method="post">
 
+
         <?php if ($category_type == "Cinema") { ?>
             <select name="category">
                 <option value="enfant">Tarif enfant</option>
