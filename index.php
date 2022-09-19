@@ -41,7 +41,6 @@ if (isset($_GET["category_type"])) {
         } ?>
 
 
-
     </main>
 
 </body>
