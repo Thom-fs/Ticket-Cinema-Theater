@@ -32,6 +32,7 @@ if (isset($_GET["category_type"])) {
                 <option value="Theater" <?php if ($category_type == "Theater") echo "selected"; ?>>Theater</option>
             </select>
 
+
             <input type="submit" value="Choisir" />
         </form>
 
