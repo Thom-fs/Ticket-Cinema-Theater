@@ -9,6 +9,7 @@ if (isset($_GET["category_type"])) {
     $category_type = $_GET["category_type"];
 }
 
+
 ?>
 
 <!DOCTYPE html>
