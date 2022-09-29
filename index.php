@@ -20,6 +20,7 @@ if (isset($_GET["category_type"])) {
     <title>Guichet du Cinéma et Théâtre</title>
 </head>
 
+
 <body>
     <main>
         <h1>Guichet du Cinéma et Théâtre</h1>
