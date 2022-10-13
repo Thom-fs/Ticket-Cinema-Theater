@@ -21,7 +21,6 @@ if (isset($_GET["category_type"])) {
 </head>
 
 
-
 <body>
     <main>
         <h1>Guichet du Cinéma et Théâtre</h1>
