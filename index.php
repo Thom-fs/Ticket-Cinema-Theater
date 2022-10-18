@@ -12,7 +12,6 @@ if (isset($_GET["category_type"])) {
 ?>
 
 
-
 <!DOCTYPE html>
 <html lang="fr">
 
