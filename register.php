@@ -14,8 +14,6 @@ if ($_SERVER["REQUEST_METHOD"] != "POST") {
 
 
 
-
-
 /* Récupération des valeurs  */
 $category_type = $_POST["category_type"]; // Type d'utilisateur
 $date = $_POST["date"];
